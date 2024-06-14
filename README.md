@@ -1,7 +1,5 @@
-# temp_cpiva-restapi-automation-mission
-This is a TEMPORARY repository that contains a technical "mission" to cpiva automate some Rest APIs using RestAssured following all the best practices that he knows
-
-
+# Test Automation Exercises
+This is a repository TO STUDY, it contains a technical "mission" automate some Rest APIs using RestAssured following all the best practices that you know.
 
 
 ## REQUIREMENTS
@@ -17,12 +15,14 @@ This is a TEMPORARY repository that contains a technical "mission" to cpiva auto
   * Java
   * Page Objects (or anything similar)
   * Maven
+    
 2. Define 3 scenarios (of your definition) for the TestProject Book Test APIs https://restful-booker.herokuapp.com/apidoc/index.html#api-Booking-CreateBooking following APIs:
   * [GET] GetBooking
   * [POST] CreateBooking
   * [PUT] UpdateBooking
   * [PATCH] PartialUpdateBooking
   * [DELETE] DeleteBooking
+
 3. You will have to write the scenarios using Gherkin (in english or portuguese) but following the best practices
 4. Automate all the scenarios that you wrote
 5. Write a README file for the project
